@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author    = { "kevinzhow" => "kevinchou.c@gmail.com" }
   s.source    = { :git => 'https://github.com/creisterer-db/PNChart-Swift' }
 
-  s.ios.deployment_target = '8.1'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = 'PNChartSwift/**/*.swift'
 
